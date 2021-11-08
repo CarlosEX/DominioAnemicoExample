@@ -4,8 +4,6 @@ Compreender e conhecer os Anti-Padrões permite-nos evitá-los pois são uma arm
 
 ## Introdução
 
-Neste post, vamos fazer uma breve explanação a respeito de domínios anêmicos, que é considerado um AntiPattern.
-
 Meu objetivo é atuar como backend .NET C#, e entender os princípios de designer do DDD, é algo crucial para projetar modelos de domínios de softwares mais consistentes e robustos. E a medida em que eu aprendo, percebo que alguns conceitos são aplicáveis a qualquer software, seja ele, grande e complexo, ou pequeno e simples.
 
 ## O que é um domínio anêmico?
